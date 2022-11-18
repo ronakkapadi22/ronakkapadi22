@@ -1,3 +1,5 @@
+# Aloha, I'm [ROnak Kapadi!](https://developing-gamer.github.io/#/) <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
+
 # 💫 About Me:
 🔭 I’m currently working on my Skills.<br>🌱 I’m currently learning more about Web Development.<br>🤔 I’m looking for help with Exploring New Technologies.<br>💬 Ask me about any tech-related stuff.<br>📫 How to reach me: Email - ronakkapadi22@gmail.com<br>😄 Pronouns: He/His<br>⚡ Fun fact: My favourite song is Grateful by Neffex.
 
